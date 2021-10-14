@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
                 sendMessage("Favor de llenar los campos!!!")
 
             }else if (c == ""){
-                sendMessage("Campo de Cateto C vacio!!!")
+                sendMessage("Campo de Cateto A vacio!!!")
 
             }else if(b == ""){
                 sendMessage("Campo de Cateto B vacio!!!")
